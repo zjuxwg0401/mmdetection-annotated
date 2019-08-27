@@ -1,5 +1,5 @@
 # Notes!!
-MMDetection-annotations have been update to latest **version 1.0**. I'll continue finish the remaining part and may not chase after upgrades in the future (present version is good enough) 
+MMDetection-annotations have been update to latest **version 1.0**. I'll persist in finishing the remaining part and may not chase after upgrades in the future (present version is good enough) 
 # mmdetection-annotated 
 
 ## Introduction
